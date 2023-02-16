@@ -324,3 +324,65 @@ html.js,
 		margin: 1em;
 	}
 }
+
+
+
+
+
+
+
+@media screen and (min-width: 1269px) {
+
+	#page-home {
+		background-image: url('../images/stack1.png'); 
+		background-color: #cccccc;
+		background-position: center; 
+		background-repeat: no-repeat; 
+		background-size: cover;
+	}
+
+
+}
+
+
+@media screen and (max-width: 1268px) {
+
+	#page-home {
+		background-image: url('../images/stack1mini.png'); 
+		background-color: #cccccc;
+		background-position: center; 
+		background-repeat: no-repeat; 
+		background-size: cover;
+	}
+
+
+}
+
+
+@media screen and (max-width: 1000px) {
+
+	#page-home {
+		background-image: url('../images/stack1mini2.png'); 
+		background-color: #cccccc;
+		background-position: center; 
+		background-repeat: no-repeat; 
+		background-size: cover;
+	}
+
+
+}
+
+
+
+@media screen and (max-width: 615px) {
+
+	#page-home {
+		background-image: url('../images/stack1mini3.png'); 
+		background-color: #cccccc;
+		background-position: center; 
+		background-repeat: no-repeat; 
+		background-size: cover;
+	}
+
+
+}
