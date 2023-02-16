@@ -40,7 +40,7 @@ body {
 	font-family: 'Avenir Next', Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
 	margin: 0;
 	color: #cecece;
-	background: #1d1e21;
+	background: #ffffff;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -52,7 +52,7 @@ a {
 }
 
 a:hover {
-	color: #fff;
+	color: #000000;
 }
 
 
@@ -176,7 +176,7 @@ a:hover {
 }
 
 .bp-nav a:hover:after {
-	color: #fff;
+	color: #000000;
 }
 
 .bp-icon--next:after {
