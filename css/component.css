@@ -331,6 +331,16 @@ html.js,
 
 
 
+
+
+
+
+
+
+
+
+
+
 @media screen and (min-width: 1269px) {
 
 	#page-home {
@@ -340,6 +350,9 @@ html.js,
 		background-repeat: no-repeat; 
 		background-size: cover;
 	}
+
+
+	
 
 
 }
@@ -371,6 +384,32 @@ html.js,
 
 
 }
+
+
+
+@media screen and (min-width: 615px) {
+	#page-docu {
+		background-image: url('../images/stack2.png'); 
+		background-color: #cccccc;
+		background-position: center; 
+		background-repeat: no-repeat; 
+		background-size: cover;
+	}
+	
+
+}
+@media screen and (max-width: 614px) {
+	#page-docu {
+		background-image: url('../images/stack2mini.png'); 
+		background-color: #cccccc;
+		background-position: center; 
+		background-repeat: no-repeat; 
+		background-size: cover;
+	}
+	
+
+}
+
 
 
 
